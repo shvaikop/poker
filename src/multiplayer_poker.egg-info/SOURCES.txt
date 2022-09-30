@@ -1,0 +1,7 @@
+pyproject.toml
+setup.cfg
+src/multiplayer_poker.egg-info/PKG-INFO
+src/multiplayer_poker.egg-info/SOURCES.txt
+src/multiplayer_poker.egg-info/dependency_links.txt
+src/multiplayer_poker.egg-info/requires.txt
+src/multiplayer_poker.egg-info/top_level.txt
